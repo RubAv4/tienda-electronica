@@ -15,3 +15,6 @@ Frontend: npm install, ng serve.
 Estructura de carpetas.
 
 Roles (ADMIN, REPONEDOR, USER) y qué puede hacer cada uno.
+## Sección: Texto del banner
+
+Versión A: Banner con texto "Promoción de fin de ciclo".
