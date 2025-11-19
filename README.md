@@ -18,4 +18,5 @@ Roles (ADMIN, REPONEDOR, USER) y qué puede hacer cada uno.
 
 ## Sección: Texto del banner
 
-Versión B: Banner con texto "Ofertas de componentes electrónicos".
+Versión final: Banner con texto "Ofertas de componentes electrónicos y promoción de fin de ciclo".
+
