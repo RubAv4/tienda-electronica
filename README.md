@@ -19,7 +19,3 @@ Roles (ADMIN, REPONEDOR, USER) y qué puede hacer cada uno.
 ## Sección: Texto del banner
 
 Versión final: Banner con texto "Ofertas de componentes electrónicos y promoción de fin de ciclo".
-
-## Documentación
-
-- [Arquitectura del proyecto](docs/arquitectura.md)
